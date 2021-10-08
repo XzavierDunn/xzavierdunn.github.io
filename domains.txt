@@ -28,3 +28,4 @@ https://logservice1.hicloud.com
 https://logbak.hicloud.com
 https://click.oneplus.com
 https://business.samsungusa.com
+https://onemacusa.com/
